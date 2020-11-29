@@ -1,0 +1,21 @@
+// export const colors = {
+//   $primary-color: #00c41f; //verde forte
+//   $secundary-color: #b3f700; //verde fraco mais forte
+//   $terceary-color: #d2ff00; // verde fraco
+//   $quartenary-color: #e9ebea; // cinza
+// }
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+body {
+  background: black;
+  color: #e9ebea;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
